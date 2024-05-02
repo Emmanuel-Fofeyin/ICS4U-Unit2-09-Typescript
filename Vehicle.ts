@@ -1,9 +1,9 @@
 /*
  * Vehicle class.
  *
- * @author  Curtis Edwards
+ * @author  Emmanuel FN
  * @version 1.0
- * @since   2024-04-13
+ * @since   2024-04-30
  */
 
 export class Vehicle {
